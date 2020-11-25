@@ -1,0 +1,2 @@
+OWL
+In general, OWL allows us to say everything that RDFS allows, and much more besides. A key part of OWL is the ability to describe classes in more interesting and complex ways. For example, in OWL we can say that Plant and Animal are disjoint classes: no individual can be both a plant and an animal (which would have the unfortunate consequence of making SlimeMold an empty class). SaltwaterFish might be the intersection of Fish and the class SeaDwellers (which also includes, for example, cetaceans and sea plants).
